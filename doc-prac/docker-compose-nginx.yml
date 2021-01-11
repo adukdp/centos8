@@ -1,0 +1,7 @@
+version: '3'
+services:
+  web:
+    container_name: nginx-compose
+    ports:
+      - "9091:80"
+    image: nginx:alpine

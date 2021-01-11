@@ -1,0 +1,10 @@
+THE FIRST LINE IS UPPERCASE LINE IN THIS FILE
+this line is first lowercase line in this file
+This Line Has All It's First Character Of The Word With Uppercase
+
+this line is above the line is empty
+there are some no of lines in this file
+and this is the last line
+asssdffd file
+sjhfsfggd this
+Ther ^ are some no of $ lines in this file

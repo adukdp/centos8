@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+
+echo "start of loop"
+for eachfile in $(ls /home/adminuser/*.sh)
+do
+  echo "$eachfile"
+  break
+done
+echo "end of loop"

@@ -1,0 +1,1 @@
+hello slave server:centos

@@ -1,0 +1,2 @@
+drwxr-xr-x 2 adminuser adminuser   6 Sep 28 05:52 Videos
+drwxr-xr-x 2 adminuser adminuser   6 Sep 28 05:52 Templates
